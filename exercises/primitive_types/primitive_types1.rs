@@ -1,7 +1,7 @@
 // primitive_types1.rs
 //
 // Fill in the rest of the line that has code missing! No hints, there's no
-// tricks, just get used to typing these :)
+// tricks, just get useto typing these :)
 //
 // Execute `rustlings hint primitive_types1` or use the `hint` watch subcommand
 // for a hint.
